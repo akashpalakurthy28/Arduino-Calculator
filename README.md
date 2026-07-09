@@ -14,3 +14,5 @@ This project implements a basic calculator using an Arduino uno, a 4x4 keypad, a
 - calculator.c - source code
 - calculator_circuit.png -  circuit diagram
 - project_proposal.pdf - project proposal
+
+## Palakurthy Akash
